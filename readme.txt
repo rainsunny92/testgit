@@ -3,4 +3,4 @@ Git is a version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 You are a man's man.
-You can adapt it.
+You can adapt it.kid
